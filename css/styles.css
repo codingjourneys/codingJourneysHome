@@ -682,7 +682,7 @@ input[type='checkbox'] {
 
 .navbar-custom .nav-item .nav-link:hover,
 .navbar-custom .nav-item .nav-link.active {
-	color: #113448;
+	color: #FF6B33;
 }
 
 /* Dropdown Menu */
@@ -1084,7 +1084,7 @@ input[type='checkbox'] {
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-	color: #113448;
+	color: #ff6b33;
 }
 
 .tabs .nav-link .fas {
@@ -1871,7 +1871,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #113448;
+		color: #ff6b33;
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -1890,7 +1890,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #113448;
+		color: #ff6b33;
 	}
 
 	.navbar-custom .dropdown-menu {
